@@ -24,6 +24,7 @@ fizzBuzz()
 
 output:
 [1]
+
 [1, 2]
 [1, 2, "fizz"]
 [1, 2, "fizz", 4]
