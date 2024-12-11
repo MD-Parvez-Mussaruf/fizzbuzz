@@ -5,6 +5,7 @@
 
 
 Code Overview:
+
 # FizzBuzz logic:
 
 If a is divisible by both 3 and 5, "fizzBuzz" is pushed to the output array.
@@ -20,22 +21,37 @@ Each time the function runs, the updated output array is printed to the console
 
 
 input:
+
 fizzBuzz()
 
 output:
+
 [1]
 
 [1, 2]
+
 [1, 2, "fizz"]
+
 [1, 2, "fizz", 4]
+
 [1, 2, "fizz", 4, "Buzz"]
+
 [1, 2, "fizz", 4, "Buzz", "fizz"]
+
 [1, 2, "fizz", 4, "Buzz", "fizz", 7]
+
 [1, 2, "fizz", 4, "Buzz", "fizz", 7, 8]
+
 [1, 2, "fizz", 4, "Buzz", "fizz", 7, 8, "fizz"]
+
 [1, 2, "fizz", 4, "Buzz", "fizz", 7, 8, "fizz", "Buzz"]
+
 [1, 2, "fizz", 4, "Buzz", "fizz", 7, 8, "fizz", "Buzz", 11]
+
 [1, 2, "fizz", 4, "Buzz", "fizz", 7, 8, "fizz", "Buzz", 11, "fizz"]
+
 [1, 2, "fizz", 4, "Buzz", "fizz", 7, 8, "fizz", "Buzz", 11, "fizz", 13]
+
 [1, 2, "fizz", 4, "Buzz", "fizz", 7, 8, "fizz", "Buzz", 11, "fizz", 13, 14]
+
 [1, 2, "fizz", 4, "Buzz", "fizz", 7, 8, "fizz", "Buzz", 11, "fizz", 13, 14, "fizzBuzz"]
